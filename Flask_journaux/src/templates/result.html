@@ -1,0 +1,22 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Application Flask pour prédire le journal d'origine d'un article</title>
+</head>
+<body>
+    <a style="text-align: center;"> 
+    <div>
+        <h2> <p>Vous souhaitez savoir qui a écrit : {{a_traduire}}</p>  </h2>
+        <h1> <p>Journal possible : {{name}}  </p>     </h1>
+
+        <h2>  Proba  Le MONDE : {{probas[0]}}    </h2> 
+        <h2>  Proba LIBERATION : {{probas[1]}}    </h2>
+        <h2>  Proba LE PARISIEN: {{probas[2]}}     </h2>
+        <h2>  Proba L'EXPRESS: {{probas[3]}}     </h2>
+        <h2>  Proba CLOSER: {{probas[4]}}    </h2>
+            
+        <h3> <a href='/' class='button' style="text-align: center;">Retour</a>   </h3>
+
+    </div>
+    </a>
+</body>

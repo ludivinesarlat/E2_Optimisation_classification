@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lsarlat/Documents/Simplon/mlruns/0/e0430924f74f49268526a6cfa054e8e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e0430924f74f49268526a6cfa054e8e5
+run_uuid: e0430924f74f49268526a6cfa054e8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1614938977553
+status: 1
+tags: []
+user_id: lsarlat
