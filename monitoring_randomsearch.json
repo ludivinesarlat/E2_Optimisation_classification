@@ -1,0 +1,82 @@
+[
+    {
+        "model_estimator": "SVC()",
+        "kernel": "poly",
+        "gamma": "scale",
+        "C": 10,
+        "mean_test_score": 0.5862445306043468,
+        "std_test_score": 0.011374414831231631
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "poly",
+        "gamma": "scale",
+        "C": 0.1,
+        "mean_test_score": 0.2652772638169182,
+        "std_test_score": 0.0012388719650589292
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "poly",
+        "gamma": "scale",
+        "C": 50,
+        "mean_test_score": 0.5862885899394831,
+        "std_test_score": 0.01140091322413865
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 1.0,
+        "mean_test_score": 0.6273216739182068,
+        "std_test_score": 0.009656317967873359
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 0.1,
+        "mean_test_score": 0.45074969469754184,
+        "std_test_score": 0.006032715820608887
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "sigmoid",
+        "gamma": "scale",
+        "C": 0.1,
+        "mean_test_score": 0.5179389964593328,
+        "std_test_score": 0.006423115715018225
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "sigmoid",
+        "gamma": "scale",
+        "C": 1.0,
+        "mean_test_score": 0.6212415439146927,
+        "std_test_score": 0.009250503275448546
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "sigmoid",
+        "gamma": "scale",
+        "C": 10,
+        "mean_test_score": 0.5857741933187461,
+        "std_test_score": 0.010024268699033183
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 10,
+        "mean_test_score": 0.6314190691235828,
+        "std_test_score": 0.011087098588097685
+    },
+    {
+        "model_estimator": "SVC()",
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 0.01,
+        "mean_test_score": 0.26267788600617786,
+        "std_test_score": 0.00016656914492242452
+    }
+]
